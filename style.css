@@ -180,7 +180,6 @@
   font-family: monospace;
   font-size: 15px;
   color: #c9a876;
-  spacing: 10px;
 }
 
 .ex{
@@ -203,9 +202,6 @@
   color: white;
 }
 
-.line{
- 
-}
 
 .company{
   font-size: 15px;
